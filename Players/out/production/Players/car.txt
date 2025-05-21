@@ -1,5 +1,0 @@
-Porsche 911 Carrera S,308,3.5,10.4
-BMW M3,250,4.1,10.0
-Audi RS5,280,3.9,9.5
-Mercedes-AMG C63,290,4.0,10.2
-Lexus RC F,270,4.5,11.0
